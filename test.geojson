@@ -1,8 +1,8 @@
 {"type":"FeatureCollection",
 "features":[
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[42.400469999999999,-71.2577]},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2577, 42.400469999999999]},
      "properties":{"loc_id":1,"loc_name":"Waltham, MA"}},
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[42.990189999999998,-71.462590000000006]},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.462590000000006, 42.990189999999998]},
     "properties":{"loc_id":2,"loc_name":"Manchester, NH"}},
  {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.757239999999996,32.909770000000002]},
     "properties":{"loc_id":3,"loc_name":"TI Blvd, TX"}}
